@@ -8,7 +8,7 @@ public class ApiPrueba {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiPrueba.class, args);
-		System.out.println("runrunmaster repuesto ok07052024**");
+		System.out.println("runrunmaster repuesto ok07052024***");
 		
 	}
 
